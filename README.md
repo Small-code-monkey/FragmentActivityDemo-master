@@ -1,0 +1,5 @@
+# FragmentActivityDemo
+快速使用一个FramentActivity管理类
+
+使用design风格的Tab+Fragment
+其中包含 万能的ViewHolder
